@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepsmk.pages.dev/sitemap.xml
